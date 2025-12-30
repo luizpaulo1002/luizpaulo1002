@@ -1,16 +1,20 @@
-## Hi there 👋
+# Luiz Paulo
 
-<!--
-**luizpaulo1002/luizpaulo1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming languages
+- C
+- C++
+- Python
+- Java
 
-Here are some ideas to get you started:
+## Frameworks
+- Qt
+- GTK
+- SFML (for game development hobby)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+In development
+
+## Contact
+luizpaulocontato32@gmail.com
+linkedin.com/in/luiz-paulo-607279302
+
